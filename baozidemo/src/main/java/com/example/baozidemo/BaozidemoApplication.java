@@ -8,7 +8,7 @@ public class BaozidemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BaozidemoApplication.class, args);
-        System.out.println("测试test分支");
+        System.out.println("测试test2分支修改");
     }
 
 }
